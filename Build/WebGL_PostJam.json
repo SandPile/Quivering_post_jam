@@ -1,0 +1,16 @@
+{
+"companyName": "Sandpile",
+"productName": "Quivering",
+"productVersion": "0.1",
+"dataUrl": "WebGL_PostJam.data.unityweb",
+"wasmCodeUrl": "WebGL_PostJam.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL_PostJam.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
